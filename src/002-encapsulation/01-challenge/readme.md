@@ -1,0 +1,1 @@
+Implemente uma classe ContaBancaria com métodos para depositar, sacar e verificar o saldo. Utilize encapsulamento para proteger o acesso aos dados.
